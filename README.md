@@ -1,8 +1,12 @@
   
 <p align="center">
-  <a href="https://github.com/JollyRogerKraken">Português Brasileiro</a>
+  <a href="https://github.com/JollyRogerKraken">
+    <img src="https://github.com/JollyRogerKraken/JollyRogerKraken/blob/main/docs/Brazil.jpg" style="width:30px;height:20px;">
+  </a>
   ·
-  <a href="/docs/readme_in.md">English</a>
+  <a href="/docs/readme_in.md">
+    <img src="https://github.com/JollyRogerKraken/JollyRogerKraken/blob/main/docs/EUA.png" style="width:30px;height:20px;">
+  </a>
 </p>
 
 ## Oii eu sou Márcio Lima 👋, mas podem me chamar de Kraken 🐙, criador de conteúdos para o youtube e amante de jogos 🎮👾
