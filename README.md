@@ -1,6 +1,6 @@
   
 <p align="center">
-  <a href="README.md">Português Brasileiro</a>
+  <a href="https://github.com/JollyRogerKraken/JollyRogerKraken/blob/main/README.md">Português Brasileiro</a>
   ·
   <a href="/docs/readme_in.md">English</a>
 </p>
