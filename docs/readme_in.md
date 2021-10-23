@@ -24,9 +24,10 @@ and content creator, i love working listening to good music and i love reading a
   
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Kraken-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Kraken-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="Kraken-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img align="center" alt="Kraken-CS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Kraken-HT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt="Kraken-CS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img align="center" alt="Kraken-BO" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
   <img align="right" alt="Kraken-pic" height="200" style="border-radius:50px;" src="https://media.discordapp.net/attachments/827581434138198057/901366266726600714/1f58fe1081959.560dc7b17ae48.png?width=494&height=494">
 </div>
   
