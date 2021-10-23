@@ -1,3 +1,10 @@
+  
+<p align="center">
+  <a href="README.md">Português Brasileiro</a>
+  ·
+  <a href="/docs/readme_in.md">English</a>
+</p>
+
 ## Oii eu sou Márcio Lima 👋, mas podem me chamar de Kraken 🐙, criador de conteúdos para o youtube e amante de jogos 🎮👾
 
 - 🔭 Atualmente estou trabalhando no desenvolvimento de um jogo de sobrevivência
@@ -36,34 +43,3 @@ e criador de conteudo, adoro trabalhar escutando uma boa musica e amo ler e assi
 </div>  
   
   ![Snake animation](https://github.com/JollyRogerKraken/JollyRogerKraken/blob/output/github-contribution-grid-snake.svg)
-  
-  <p align="center">
-    <a href="/docs/readme_fr.md">Français</a>
-    ·
-    <a href="/docs/readme_cn.md">简体中文</a>
-    ·
-    <a href="/docs/readme_es.md">Español</a>
-    ·
-    <a href="/docs/readme_de.md">Deutsch</a>
-    ·
-    <a href="/docs/readme_ja.md">日本語</a>
-    ·
-    <a href="/docs/readme_pt-BR.md">Português Brasileiro</a>
-    ·
-    <a href="/docs/readme_it.md">Italiano</a>
-    ·
-    <a href="/docs/readme_kr.md">한국어</a>
-    .
-    <a href="/docs/readme_nl.md">Nederlands</a>
-    .
-    <a href="/docs/readme_np.md">नेपाली</a>
-  </p>
-  
-  
-## Hi, I'm Márcio Lima 👋, but you can call me Kraken 🐙, youtube content creator and game lover 🎮👾
-
-- 🔭 I'm currently working on developing a survival game
-- 🌱 I've been looking to learn more about C # and the Unity Engine
-- 😄 Pronouns: He / His
-- ⚡ Curiosity: I'm also a multi-instrumentalist, multimedia producer
-and content creator, i love working listening to good music and i love reading and watching good movies.
