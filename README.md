@@ -15,8 +15,8 @@ e criador de conteudo, adoro trabalhar escutando uma boa musica e amo ler e assi
 
 <div align="center">
   <a href="https://beacons.ai/jollyroger">
-  <img height="135em" src="https://github-readme-stats.vercel.app/api?username=JollyRogerKraken&show_icons=true&theme=New_Wave&include_all_commits=true&count_private=true"/>
-  <img height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JollyRogerKraken&layout=compact&langs_count=7&theme=New_Wave"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=JollyRogerKraken&show_icons=true&theme=New_Wave&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JollyRogerKraken&layout=compact&langs_count=7&theme=New_Wave"/>
 </div>
   
   
