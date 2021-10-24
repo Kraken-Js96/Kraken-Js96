@@ -1,4 +1,4 @@
-<p align="right">
+<p align="center">
   <a href="https://github.com/JollyRogerKraken">
     <img src="https://github.com/JollyRogerKraken/JollyRogerKraken/blob/main/docs/Brazil.jpg" style="width:30px;height:20px;">
   </a>
