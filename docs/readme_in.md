@@ -28,7 +28,7 @@ and content creator, i love working listening to good music and i love reading a
   <img align="center" alt="Kraken-HT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="Kraken-CS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="Kraken-BO" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
-  <img align="right" alt="Kraken-pic" height="200" style="border-radius:50px;" src="https://media.discordapp.net/attachments/827581434138198057/901682179027898428/ChibiMe.gif?width=494&height=494">
+  <img align="right" alt="Kraken-pic" height="200" style="border-radius:50px;" src="https://media.discordapp.net/attachments/827581434138198057/901703678178762752/Kraken.gif?width=494&height=494">
 </div>
   
   ##
