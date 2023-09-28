@@ -8,10 +8,10 @@
   </a>
 </p>
 
-## Oii eu sou Márcio Lima 👋, mas podem me chamar de Kraken 🐙, criador de conteúdos para o youtube e amante de jogos 🎮👾
+## Ola eu sou Márcio Lima 👋, mas podem me chamar de Kraken 🐙, criador de conteúdos para o youtube e amante de jogos 🎮👾
 
-- 🔭 Atualmente estou trabalhando no desenvolvimento de um jogo de sobrevivência
-- 🌱 Tenho buscado aprender mais sobre C # e a Unity Engine
+- 🎓 Estudando Desenvolvimento Full Stack (Previsção de termino para 2026)
+- 🌱 Tenho buscado aprender mais sobre desenvolvimento mobile e de sistema
 - 😄 Pronomes: Ele / Dele
 - ⚡ Curiosidade: Também sou músico multi-instrumentistas, produtor multimídia
 e criador de conteudo, adoro trabalhar escutando uma boa musica e amo ler e assistir bons filmes
