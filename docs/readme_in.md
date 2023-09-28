@@ -10,8 +10,8 @@
 
 ## Hi, I'm Márcio Lima 👋, but you can call me Kraken 🐙, youtube content creator and game lover 🎮👾
 
-- 🔭 I'm currently working on developing a survival game
-- 🌱 I've been looking to learn more about C # and the Unity Engine
+- 🎓 Studying Full Stack Development (Expected completion in 2026)
+- 🌱 I have been trying to learn more about mobile and system development
 - 😄 Pronouns: He / His
 - ⚡ Curiosity: I'm also a multi-instrumentalist, multimedia producer
 and content creator, i love working listening to good music and i love reading and watching good movies.
