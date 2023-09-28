@@ -1,10 +1,10 @@
 <p align="center">
-  <a href="https://github.com/JollyRogerKraken">
-    <img src="https://github.com/JollyRogerKraken/JollyRogerKraken/blob/main/docs/Brazil.jpg" style="width:30px;height:20px;">
+  <a href="https://github.com/Kraken-Js96">
+    <img src="https://github.com/Kraken-Js96/Kraken-Js96/blob/main/docs/Brazil.jpg" style="width:30px;height:20px;">
   </a>
   ·
   <a href="/docs/readme_in.md">
-    <img src="https://github.com/JollyRogerKraken/JollyRogerKraken/blob/main/docs/EUA.png" style="width:30px;height:20px;">
+    <img src="https://github.com/Kraken-Js96/Kraken-Js96/blob/main/docs/EUA.png" style="width:30px;height:20px;">
   </a>
 </p>
 
@@ -18,8 +18,8 @@ and content creator, i love working listening to good music and i love reading a
 
 <div align="center">
   <a href="https://beacons.ai/jollyroger">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JollyRogerKraken&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JollyRogerKraken&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kraken-Js96&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kraken-Js96&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
   
@@ -40,4 +40,4 @@ and content creator, i love working listening to good music and i love reading a
  	<a href="https://www.twitch.tv/jollyroger_kraken" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 </div>  
   
-  ![Snake animation](https://github.com/JollyRogerKraken/JollyRogerKraken/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Kraken-Js96/Kraken-Js96/blob/output/github-contribution-grid-snake.svg)
