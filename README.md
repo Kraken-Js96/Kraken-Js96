@@ -17,7 +17,7 @@
 e criador de conteudo, adoro trabalhar escutando uma boa musica e amo ler e assistir bons filmes
 
 <div align="center">
-  <a href="https://beacons.ai/jollyroger">
+  <a href="https://beacons.ai/krakenjs">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kraken-Js96&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kraken-Js96&layout=compact&langs_count=7&theme=dracula"/>
 </div>
